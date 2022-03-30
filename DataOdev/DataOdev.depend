@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611448520 source:c:\users\baris\desktop\c deneme\dosyalislem\dataodev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

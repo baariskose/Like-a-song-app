@@ -1,0 +1,5 @@
+InsertSong	T	SongA
+InsertSong	T	SongC
+InsertSong	T	SongB
+MoveSong	A	SongC	SongB
+PrintPlaylist	F
